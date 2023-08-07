@@ -1,0 +1,145 @@
+[
+    {
+        "id": "p1",
+        "title": "메리골드 마음 세탁소",
+        "publisher": "북로망스",
+        "author": "윤정은",
+        "price": 13500.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/300x0/pdt/9791191891287.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000201142283"
+    },
+    {
+        "id": "p2",
+        "title": "어느 젊은 목사 아내의 수기",
+        "publisher": "크리스천나무소설가선",
+        "author": "이건숙",
+        "price": 14400.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156291664.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000208431501"
+    },
+    {
+        "id": "p3",
+        "title": "꿀벌의 예언1",
+        "publisher": "열린책들",
+        "author": "베르나르 베르베르",
+        "price": 15120.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788932923413.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000202671907"
+    },
+    {
+        "id": "p4",
+        "title": "눈에 갇힌 외딴 산장에서",
+        "publisher": "재인",
+        "author": "히가시노 게이고",
+        "price": 16920.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791192483191.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000203244661"
+    },
+    {
+        "id": "p5",
+        "title": "그림자 인간",
+        "publisher": "리드리드출판",
+        "author": "츠지도 유메 장편소설",
+        "price": 16020.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788972773801.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000208429688"
+    },
+    {
+        "id": "p6",
+        "title": "니체의 말",
+        "publisher": "삼호미디어",
+        "author": "프리드리히 니체",
+        "price": 14220.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788978496629.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000061584236"
+    }
+    ,
+    {
+        "id": "p7",
+        "title": "스윗한 SwiftUI",
+        "publisher": "비제이퍼블릭 ",
+        "author": "이봉원",
+        "price": 28800.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791190014816.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000001934246"
+    }
+    ,
+    {
+        "id": "p8",
+        "title": "Clean Code",
+        "publisher": "인사이트",
+        "author": "로버트 C. 마틴",
+        "price": 29700.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966260959.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000001032980"
+    }
+    ,
+    
+    {
+        "id": "p9",
+        "title": "스위프트 프로그래밍: Swift 5",
+        "publisher": "야곰",
+        "author": "한빛미디어",
+        "price": 28800.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162242223.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000001810190"
+    },
+    
+    {
+        "id": "p10",
+        "title": "좋은 일이 오려고 그러나 보다",
+        "publisher": "박여름",
+        "author": "히읏",
+        "price": 15120.00,
+        "imageURLString": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791192559742.jpg",
+        "shopURLString": "https://product.kyobobook.co.kr/detail/S000203354065"
+    },
+    {
+        "id": "p16",
+        "title": "데미안",
+        "publisher": "민음사",
+        "author": "헤르만 헤세",
+        "price": 7200.0,
+        "imageURLString": "https://minumsa.minumsa.com/wp-content/uploads/bookcover/044_%EB%8D%B0%EB%AF%B8%EC%95%88-300x504.jpg",
+        "shopURLString": "http://aladin.kr/p/9FT2H"
+    },
+    
+    {
+        "id": "p17",
+        "title": "호밀밭의 파수꾼",
+        "publisher": "민음사",
+        "author": "J.D. 샐린저",
+        "price": 9000.0,
+        "imageURLString": "https://minumsa.minumsa.com/wp-content/uploads/bookcover/%E1%84%92%E1%85%A9%E1%84%86%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A1%E1%87%80%E1%84%89%E1%85%A2%E1%84%87%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%A8_B_%E1%84%91%E1%85%AD1-500x852.jpg",
+        "shopURLString": "http://aladin.kr/p/TQsPP"
+    },
+    
+    {
+        "id": "p18",
+        "title": "달과 6펜스",
+        "publisher": "민음사",
+        "author": "서머싯 몸",
+        "price": 9000.0,
+        "imageURLString": "https://minumsa.minumsa.com/wp-content/uploads/bookcover/38_%EB%8B%AC%EA%B3%BC-6%ED%8E%9C%EC%8A%A4_%ED%91%9C1-500x851.jpg",
+        "shopURLString": "http://aladin.kr/p/bFTPJ"
+    },
+    
+    {
+        "id": "p19",
+        "title": "모순",
+        "publisher": "쓰다",
+        "author": "양귀자",
+        "price": 11700.0,
+        "imageURLString": "https://image.aladin.co.kr/product/2584/37/cover500/8998441012_3.jpg",
+        "shopURLString": "http://aladin.kr/p/TQsPP"
+    },
+    {
+        "id": "p20",
+        "title": "종의 기원",
+        "publisher": "은행나무",
+        "author": "정유정",
+        "price": 11700.0,
+        "imageURLString": "https://image.aladin.co.kr/product/7492/9/cover500/8956609950_2.jpg",
+        "shopURLString": "http://aladin.kr/p/EJOEn"
+    }
+]
