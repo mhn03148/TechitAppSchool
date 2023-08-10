@@ -52,10 +52,14 @@ struct AddingProductView: View {
                 }
             }
             .refreshable {
-                productStore.fetchProducts()
+                Task {
+                    await productStore.fetchProducts()
+                }
             }
             .onAppear {
-                productStore.fetchProducts()
+                Task {
+                    await productStore.fetchProducts()
+                }
             }
         }
     }
