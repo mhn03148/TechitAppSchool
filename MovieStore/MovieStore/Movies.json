@@ -1,0 +1,59 @@
+[
+    {
+        "id": "m1",
+        "movieName": "오펜하이머",
+        "movieImageString": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000087/87175/87175_320.jpg",
+        "filmDirector": "크리스토퍼 놀란",
+        "genre": "스릴러, 드라마",
+        "star": 9,
+        "CGVUrl": "https://moviestory.cgv.co.kr/fanpage/mainView?movieIdx=87175",
+        "lotteCinemaUrl": "https://www.lottecinema.co.kr/NLCHS/ticketing?movieCd=20031&movieName=%EC%98%A4%ED%8E%9C%ED%95%98%EC%9D%B4%EB%A8%B8",
+        "megaboxUrl": "https://www.megabox.co.kr/movie-detail?rpstMovieNo=23049000"
+    },
+    {
+        "id": "m2",
+        "movieName": "밀수",
+        "movieImageString": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000087/87149/87149_320.jpg",
+        "filmDirector": "류승완",
+        "genre": "범죄",
+        "star": 9,
+        "CGVUrl": "https://moviestory.cgv.co.kr/fanpage/mainView?movieIdx=87149",
+        "lotteCinemaUrl": "https://www.lottecinema.co.kr/NLCHS/Movie/MovieDetailView?movie=19782",
+        "megaboxUrl": "https://www.megabox.co.kr/movie-detail?rpstMovieNo=23029300"
+    },
+    {
+        "id": "m3",
+        "movieName": "엘리멘탈",
+        "movieImageString": "https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202306/19438_103_1.jpg",
+        "filmDirector": "피터 손",
+        "genre": "애니메이션",
+        "star": 9,
+        "CGVUrl": "http://www.cgv.co.kr/movies/detail-view/?midx=87034",
+        "lotteCinemaUrl": "https://www.lottecinema.co.kr/NLCHS/Movie/MovieDetailView?movie=19438",
+        "megaboxUrl": "https://www.megabox.co.kr/movie-detail?rpstMovieNo=23034900"
+    },
+    {
+        "id": "m4",
+        "movieName": "더 문",
+        "movieImageString": "https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202308/19825_103_1.jpg",
+        "filmDirector": "김용화",
+        "genre": "SF, 액선, 드라마",
+        "star": 8,
+        "CGVUrl": "http://www.cgv.co.kr/movies/detail-view/?midx=87046",
+        "lotteCinemaUrl": "https://www.lottecinema.co.kr/NLCHS/Movie/MovieDetailView?movie=19825",
+        "megaboxUrl": "https://www.megabox.co.kr/movie-detail?rpstMovieNo=23035200"
+    },
+    {
+        "id": "m5",
+        "movieName": "콘크리트 유토피아",
+        "movieImageString": "https://img.megabox.co.kr/SharedImg/2023/07/24/fTDlFw52l4qR9BgyWonyQ6eO8wKGSoJr_420.jpg",
+        "filmDirector": "엄태화",
+        "genre": "드라마",
+        "star": 9,
+        "CGVUrl": "http://www.cgv.co.kr/movies/detail-view/?midx=87136",
+        "lotteCinemaUrl": "https://www.lottecinema.co.kr/NLCHS/Movie/MovieDetailView?movie=19974",
+        "megaboxUrl": "https://www.megabox.co.kr/movie-detail?rpstMovieNo=23047600"
+    }
+]
+
+
